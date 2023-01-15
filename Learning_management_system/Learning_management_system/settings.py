@@ -33,6 +33,7 @@ ALLOWED_HOSTS = []
 # Application definition
 
 INSTALLED_APPS = [
+    "Lets_learn.apps.LetsLearnConfig",
     "django.contrib.admin",
     "django.contrib.auth",
     "django.contrib.contenttypes",
